@@ -1,0 +1,35 @@
+{
+    "name": "flarum/lang-serbian",
+    "type": "flarum-extension",
+    "description": "Serbian language pack.",
+    "keywords": ["locale", "flarum", "serbian"],
+    "license": "MIT",
+    "authors": [
+        {
+          "name": "Milan Bryant",
+          "email": "milansamp999@gmail.com",
+          "homepage": "https://discuss.flarum.org/u/bryantmilan"
+        }
+      ],
+    "require": {
+        "flarum/core": ">=0.1.0-beta.14 <0.1.0-beta.15"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Srpski",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "sr",
+            "title": "Srpski"
+        }
+    }
+}

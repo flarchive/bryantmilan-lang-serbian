@@ -1,0 +1,34 @@
+{
+    "name": "flarum/lang-serbian",
+    "type": "flarum-extension",
+    "description": "Serbian language for Flarum software.",
+    "keywords": ["serbian", "language", "flarum"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.16"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Serbian",
+            "category": "language",
+            "info": {
+                "donate": "https://flarum.org/donate/",
+                "website": "https://flarum.org",
+                "support": "https://discuss.flarum.org/d/24125-serbian-language-pack"
+            },
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "sr",
+            "title": "Srpski"
+        }
+    }
+}

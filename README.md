@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of bryantmilan/lang-serbian.** Not for installation: use [Packagist](https://packagist.org/packages/bryantmilan/lang-serbian) or the [upstream repository](https://github.com/bryantmilan/lang-serbian).
 
-**0** versions archived · Latest: [`v1.4.1`](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.4.1) · License: `MIT` · Flarum: `^1.2`
+**6** versions archived · Latest: [`v1.4.1`](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.4.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2020-06-04 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.0) |
+| `v1.1` | 2020-11-20 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.1) |
+| `v1.2.1` | 2021-01-01 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.2.1) |
+| `v1.3` | 2021-04-17 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.3) |
+| `v1.4` | 2022-01-31 | `^1.2` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.4) |
+| `v1.4.1` | 2022-02-09 | `^1.2` | [Browse](https://github.com/flarchive/bryantmilan-lang-serbian/tree/archive/v1.4.1) |
 
 Catalog entry: [packages/bryantmilan-lang-serbian.json](https://github.com/flarchive/archive-index/blob/main/packages/bryantmilan-lang-serbian.json)
 
